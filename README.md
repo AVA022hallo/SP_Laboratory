@@ -85,8 +85,11 @@ XUPT 通信与信息工程学院 信号处理实验室
    5. [感为八路灰度模块](https://github.com/AVA022hallo/SP_Laboratory/blob/main/gray_soft_ii2.py)，[购买链接](https://item.taobao.com/item.htm?_u=r20e5ma4kqa85b&id=700000730878&spm=a1z09.2.0.0.33672e8dTJ1wCW)
 #### 五、物联网常用外设学习
 1. **外设库**
-   1. [INMP441全向麦克风模块]()
-
+   1. [INMP441全向麦克风模块 + SD卡](https://github.com/AVA022hallo/SP_Laboratory/blob/main/microphone_sd.py)
+   2. [INMP441全向麦克风模块 + UDP协议传输](https://github.com/AVA022hallo/SP_Laboratory/blob/main/microphone_udp.py)
+  
 ### 硬件
+### 3D
+### AI训练
 
 
