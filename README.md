@@ -21,6 +21,7 @@ XUPT 通信与信息工程学院 信号处理实验室
    5. 数据结构之堆和栈的使用
 
 #### 二、stm32学习
+
 1. 基础知识常使用
    1. [C语言对寄存器的位操作](https://blog.csdn.net/qixjocd12345/article/details/108304967)
    2. [寄存器版本好还是库函数版本好](https://blog.csdn.net/qq_35656655/article/details/119850030)
@@ -83,6 +84,9 @@ XUPT 通信与信息工程学院 信号处理实验室
    3. 激光测距
    4. 编码电机
    5. [感为八路灰度模块](https://github.com/AVA022hallo/SP_Laboratory/blob/main/gray_soft_ii2.py)，[购买链接](https://item.taobao.com/item.htm?_u=r20e5ma4kqa85b&id=700000730878&spm=a1z09.2.0.0.33672e8dTJ1wCW)
+   6. [单路灰度模块ADC采集](https://github.com/AVA022hallo/SP_Laboratory/blob/main/gray_adc.py)
+3. **算法库**
+   1. [PID算法](https://github.com/AVA022hallo/SP_Laboratory/blob/main/pid.py)
 #### 五、物联网常用外设学习
 1. **外设库**
    1. [INMP441全向麦克风模块 + SD卡](https://github.com/AVA022hallo/SP_Laboratory/blob/main/microphone_sd.py)
