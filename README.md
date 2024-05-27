@@ -78,12 +78,14 @@ XUPT 通信与信息工程学院 信号处理实验室
    3. 能少接线就少接线
    4. 及格货 > 富贵货 > 垃圾货
    5. 资料丰富、开源完善 > 钱（串口通讯另说）
-2. **常用外设库**
+2. **外设库**
    1. 串口屏 
    3. 激光测距
    4. 编码电机
-   5. [八路灰度模块](https://github.com/AVA022hallo/SP_Laboratory/blob/main/gray_soft_ii2.py)，[购买链接](https://item.taobao.com/item.htm?_u=r20e5ma4kqa85b&id=700000730878&spm=a1z09.2.0.0.33672e8dTJ1wCW)
-#### 五、常用软件下载仓
+   5. [感为八路灰度模块](https://github.com/AVA022hallo/SP_Laboratory/blob/main/gray_soft_ii2.py)，[购买链接](https://item.taobao.com/item.htm?_u=r20e5ma4kqa85b&id=700000730878&spm=a1z09.2.0.0.33672e8dTJ1wCW)
+#### 五、物联网常用外设学习
+1. **外设库**
+   1. [INMP441全向麦克风模块]()
 
 ### 硬件
 
