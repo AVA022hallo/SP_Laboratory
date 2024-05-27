@@ -86,6 +86,8 @@ XUPT 通信与信息工程学院 信号处理实验室
    6. [单路灰度模块ADC采集](https://github.com/AVA022hallo/SP_Laboratory/blob/main/gray_adc.py)
 3. **算法库**
    1. [PID算法](https://github.com/AVA022hallo/SP_Laboratory/blob/main/pid.py)
+   2. [openmv寻球算法](https://github.com/AVA022hallo/SP_Laboratory/blob/main/openmv_find_ball.py)
+   3. [openmv利用霍夫寻线法，经过多次滤波和二值化](https://github.com/AVA022hallo/SP_Laboratory/blob/main/openmv_find_way)
 #### 五、物联网常用外设学习
 1. **外设库**
    1. [INMP441全向麦克风模块 + SD卡](https://github.com/AVA022hallo/SP_Laboratory/blob/main/microphone_sd.py)
