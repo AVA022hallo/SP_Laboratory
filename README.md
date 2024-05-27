@@ -2,9 +2,8 @@
 XUPT 通信与信息工程学院 信号处理实验室 
 ## 序言
 为促进实验室发展，制作该 ***《LabMem成长指南》***（全称《Labtorary Member 成长指南》）。希望这些学习资料能让各位倍感挑战的同时，少走一些不必要的弯路。
-## 分类
 
-### 软件部分
+## 软件部分
 
 #### 一、语言学习
 
@@ -92,8 +91,8 @@ XUPT 通信与信息工程学院 信号处理实验室
    1. [INMP441全向麦克风模块 + SD卡](https://github.com/AVA022hallo/SP_Laboratory/blob/main/microphone_sd.py)
    2. [INMP441全向麦克风模块 + UDP协议传输](https://github.com/AVA022hallo/SP_Laboratory/blob/main/microphone_udp.py)
   
-### 硬件
-### 3D
-### AI训练
+## 硬件
+## 3D
+## AI训练
 
 
