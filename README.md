@@ -24,6 +24,7 @@ XUPT 通信与信息工程学院 信号处理实验室
 1. 基础知识常使用
    1. [C语言对寄存器的位操作](https://blog.csdn.net/qixjocd12345/article/details/108304967)
    2. [寄存器版本好还是库函数版本好](https://blog.csdn.net/qq_35656655/article/details/119850030)
+   3. [keil5安装](https://blog.csdn.net/Matcha_ice_cream/article/details/118684582)
 2. IO口输入输出
    1. **目标：轮子正反转**
    2. [GPIO介绍](https://blog.csdn.net/qq_44016222/article/details/123206403)
