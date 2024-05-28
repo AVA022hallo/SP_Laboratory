@@ -49,7 +49,7 @@ XUPT 通信与信息工程学院 信号处理实验室
    4. [PID算法](https://blog.csdn.net/weixin_45751396/article/details/119721939)
    5. [PID调参](https://blog.csdn.net/wb790238030/article/details/92809538)
 
-#### 三、ESP32
+#### 三、ESP32学习
 >为什么要学ESP32和micropython？
    >>1. ESP32相比stm32f10x有更为优越的性能。国赛对芯片的最高要求为stm32f40x，ESP32的性能甚至优于stm32f40x。
    >>2. ESP32由国产公司乐鑫生产，价格便宜。
@@ -64,13 +64,10 @@ XUPT 通信与信息工程学院 信号处理实验室
    2. [mpy_esp32快速参考](http://micropython.com.cn/en/latet/esp32/quickref.html)
    3. [ESP32搭载WROOM-32E模块_购买链接](https://item.taobao.com/item.htm?_u=u20e5ma4kq6aea&id=672885629326&spm=a1z09.2.0.0.51a42e8dUHKo8X+)
    4. [远程下载代码和调试](https://www.bing.com/search?q=thonny+webrepl&form=ANNTH1&refig=6630dcf206ee4588bcc5e1eb16eb747c&pc=U531&adppc=EDGEESS&pqasv=thonny+web&pqlth=10&assgl=14&sgcn=thonny+webrepl&sgtpv=UT&swbcn=10&smvpcn=0&cvid=6630dcf206ee4588bcc5e1eb16eb747c&clckatsg=1&hsmssg=0)
-2. 项目方向
-   1. mqtt协议
-      1. **目标:使用阿里云平台实现公网点灯**
-      2. [手把手教程](https://blog.csdn.net/weixin_42089940/article/details/123012744)
-   2. TCP\IP协议
-   >由于micropython语言的更新速度远远低于python（mpy的json库至今不支持中文解析），开发后期基本只把ESP32作为网络接口，主要代码开发都依赖python
-
+2. 学习目标
+   1. 板球系统
+   2. 灰度循迹
+   
 #### 四、电赛常用外设学习
 1. **外设使用原则：** 
    1. 能少用中断就少用中断
@@ -92,7 +89,9 @@ XUPT 通信与信息工程学院 信号处理实验室
 1. **外设库**
    1. [INMP441全向麦克风模块 + SD卡](https://github.com/AVA022hallo/SP_Laboratory/blob/main/microphone_sd.py)
    2. [INMP441全向麦克风模块 + UDP协议传输](https://github.com/AVA022hallo/SP_Laboratory/blob/main/microphone_udp.py)
-  
+2. **学习博客**
+   1. [使用阿里云平台实现公网点灯](https://blog.csdn.net/weixin_42089940/article/details/123012744)
+
 ## 硬件
 ## 3D
 ## AI训练
