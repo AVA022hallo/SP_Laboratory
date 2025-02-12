@@ -65,7 +65,7 @@ XUPT 通信与信息工程学院 信号处理科技创新团队
 2. 学习目标
    1. 板球系统
    2. 灰度循迹
-   
+
 #### 四、电赛常用外设学习
 1. **外设使用原则：** 
    1. 能少用中断就少用中断
@@ -83,6 +83,14 @@ XUPT 通信与信息工程学院 信号处理科技创新团队
    1. [PID算法](https://github.com/AVA022hallo/SP_Laboratory/blob/main/pid.py)
    2. [openmv寻球算法](https://github.com/AVA022hallo/SP_Laboratory/blob/main/openmv_find_ball.py)
    3. [openmv利用霍夫寻线法，经过多次滤波和二值化](https://github.com/AVA022hallo/SP_Laboratory/blob/main/openmv_find_way.py)
+4. **常用购买店铺**
+   1. 要求：价格公道，品质保障，种类全，发货快，能开发票。
+   2. [深圳市优信电子科技有限公司](https://shop131282813.taobao.com/?spm=2013.1.w20643989-24706531881.2.3c8a6844I0gSRD&scene=taobao_shop)：购买电子模块
+   3. [zave旗舰店](https://zave.tmall.com/shop/view_shop.htm?spm=a1z09.2.0.0.4a292e8dQKadQr&user_number_id=2206538403605)：购买电子模块、常用板子、耗材
+   4. [泽杰旗舰店](https://zejie.tmall.com/shop/view_shop.htm?spm=a1z09.2.0.0.4a292e8dQKadQr&user_number_id=2208077569814)：购买电子模块、常用板子、耗材
+   5. [绿林官方旗舰店](https://lvlin.tmall.com/shop/view_shop.htm?spm=a1z09.2.0.0.4a292e8dQKadQr&user_number_id=2408239898)：购买工具，支持顺丰
+   6. [正点原子](https://openedv.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.4a292e8dQKadQr&user_number_id=230947266)：经典店铺，价格偏贵
+   7. [固恒五金专营店](https://guhengwj.tmall.com/shop/view_shop.htm?spm=a1z09.2.0.0.4a292e8dQKadQr&user_number_id=2200690464995)：购买金属结构件
 #### 五、物联网常用外设学习
 1. **外设库**
    1. [INMP441全向麦克风模块 + SD卡](https://github.com/AVA022hallo/SP_Laboratory/blob/main/microphone_sd.py)
